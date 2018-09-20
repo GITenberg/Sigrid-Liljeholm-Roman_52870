@@ -1,5 +1,8 @@
 _repo: Sigrid-Liljeholm-Roman_52870
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52870-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Runeberg, Fredrika Charlotta Tengström
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6413
     wikipedia: http://fi.wikipedia.org/wiki/Fredrika_Runeberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52870#Sigrid-Liljeholm-Roman
 gutenberg_issued: '2016-08-21'
 gutenberg_type: Text
 identifiers:
