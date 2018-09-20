@@ -1,0 +1,31 @@
+_repo: Sigrid-Liljeholm-Roman_52870
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Runeberg, Fredrika Charlotta Tengström
+    aliases:
+    - –a –g
+    - Runeberg, Frederika
+    - Runeberg, Fredrika Charlotta Tengstrom
+    - Tengström, Fredrika Charlotta
+    birthdate: 1807
+    deathdate: 1879
+    gutenberg_agent_id: '6413'
+    url: http://www.gutenberg.org/2009/agents/6413
+    wikipedia: http://fi.wikipedia.org/wiki/Fredrika_Runeberg
+description: ''
+gutenberg_issued: '2016-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52870'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PT'
+- !lcsh 'Finland -- History -- Club War, 1596-1597 -- Fiction'
+- GITenberg
+title: 'Sigrid Liljeholm: Roman'
+url: http://www.gutenberg.org/ebooks/52870
